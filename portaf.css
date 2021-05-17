@@ -1,0 +1,139 @@
+/*body *{   resalta las lineas de toda la pagina
+    x
+}*/
+
+div.container{ /*toda la pagina*/
+    width: 980px;
+    min-height: 800px;
+    background-color: rgb(66, 27, 66);
+    margin: 1px auto;
+    
+}
+
+div.container div.titulo{
+    min-height: 100px;
+    
+    background-color: rgb(230, 230, 230);
+}
+
+div.container div.titulo ul{
+    display: inline-block;
+    
+}
+
+div.container div.titulo ul li{
+    display: inline-block;
+    font-size: 24px;
+    width: 420px;
+    padding: 10px;
+    
+}
+div.Cuerpotext p{
+    font-size: 18px;
+}
+div.container div.About{
+    min-height: 300px;
+    background-color: rgb(230, 230, 230);
+}
+
+div.container div.ImageJane{
+    min-height: 300px;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.container div.textabout{
+    min-height: 300px;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(230, 230, 230);
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.container div.Cuerpotext{
+    min-height: 400px;
+    background-color: rgb(102, 43, 72);
+}
+
+div.container div.mensaje{
+    min-height: 300px;
+    width: 280px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(230, 230, 230);
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    
+}
+div.container div.mensaje div.image{
+    height: 150px;
+}
+div.container div.mensaje a{
+    display: block;
+    background-color: green;
+    padding: 10px;
+    border: 1px solid black;
+    color: white;
+    text-decoration: none;
+}
+
+div.container div.textabout div mensaje1{
+    min-height: 339px;
+    width: 468px;
+    
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.imgindex{
+    max-width: 274px;
+    border: 10px  ;
+    border-radius: 5px;
+    }
+
+    .imgabout{
+        max-width: 480px;
+        border: 10px  ;
+        padding: 10px;
+        margin: 10px;   
+        border-radius: 5px;
+         
+        }
+
+div.container div.end{
+            min-height: 100px;
+            background-color: rgb(230, 230, 230);
+        }
+div.container div.end ul{
+            display: inline-block;
+            
+        }
+        
+div.container div.end ul li{
+            display: inline-block;
+            font-size: 24px;
+            width: 420px;
+            padding: 10px;
+        }
+.imgteg{
+            max-width: 55px;
+            border: 10px  ;
+            border-radius: 5px;
+            }
+        
+.mensaje2{
+    display: block;
+    background-color:rgb(88, 109, 88) ;
+    padding: 10px;
+    
+    color: white;
+    text-decoration: none;
+}
